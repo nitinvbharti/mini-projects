@@ -1,0 +1,92 @@
+{
+    "movies_list": [
+        {
+          "title": "The Dare",
+          "year": 2020,
+          "cast": [
+            "Richard Short",
+            "Daniel Schutzmann",
+            "Harry Jarvis"
+          ],
+          "image": "Your-image-url",
+          "description": "Evil Dead is some film."
+        },
+        {
+          "title": "The Conjuring",
+          "year": 2013,
+          "cast": [
+            "Vera Farmiga",
+            "Patrick Wilson",
+            "Lili Taylor"
+          ],
+          "image": "Your-image-url",
+          "description": "A family encounters terrifying events in their new home."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "cast": [
+            "Daniel Kaluuya",
+            "Allison Williams",
+            "Bradley Whitford"
+          ],
+          "image": "Your-image-url",
+          "description": "A young African-American man visits his white girlfriend's family estate and becomes ensnared in a more sinister real reason for the invitation."
+        },
+        {
+          "title": "The Shining",
+          "year": 1980,
+          "cast": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd"
+          ],
+          "image": "Your-image-url",
+          "description": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+        },
+        {
+          "title": "Psycho",
+          "year": 1960,
+          "cast": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles"
+          ],
+          "image": "Your-image-url",
+          "description": "A secretary embezzles money and checks into a remote motel run by a troubled man with an overbearing mother."
+        },
+        {
+          "title": "Hereditary",
+          "year": 2018,
+          "cast": [
+            "Toni Collette",
+            "Gabriel Byrne",
+            "Alex Wolff"
+          ],
+          "image": "Your-image-url",
+          "description": "After the family matriarch passes away, a grieving family is haunted by tragic and disturbing occurrences, and begin to unravel dark secrets."
+        },
+        {
+          "title": "The Exorcist",
+          "year": 1973,
+          "cast": [
+            "Ellen Burstyn",
+            "Max von Sydow",
+            "Linda Blair"
+          ],
+          "image": "Your-image-url",
+          "description": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter."
+        },
+        {
+          "title": "Rosemary's Baby",
+          "year": 1968,
+          "cast": [
+            "Mia Farrow",
+            "John Cassavetes",
+            "Ruth Gordon"
+          ],
+          "image": "Your-image-url",
+          "description": "A young couple moves into an apartment only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins controlling her life."
+        }
+    ]      
+}
