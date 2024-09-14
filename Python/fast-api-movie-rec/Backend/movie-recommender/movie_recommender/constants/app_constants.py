@@ -1,0 +1,1 @@
+USER_SEARCHED_MOVIES_FILEPATH = 'movie_recommender/data/user_searched_movies.csv'
